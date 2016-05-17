@@ -1,2 +1,2 @@
-# CarpeDiem
-Sitio web dedicado a la imnobiliaria CarpeDiem
+# BarrioUnoStatic
+Sitio para la sociedad de fomento de Barrio Uno

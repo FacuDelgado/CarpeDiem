@@ -1,0 +1,24 @@
+{
+  "name": "CarpeDiem",
+  "version": "1.0.0",
+  "description": "CarpeDiem Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "monitor": "nodemon app.js",
+    "deploy": "gcloud preview app deploy app.yaml"
+  },
+  "author": "Facundo Delgado",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^2.3.0",
+    "nodemon": "^1.9.1",
+    "mongoose": "4.3.1"
+  },
+  "engines": {
+    "node": ">=0.12.7"
+  }
+}
