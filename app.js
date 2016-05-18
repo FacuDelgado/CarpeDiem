@@ -1,5 +1,4 @@
 'use strict';
-require('dotenv').load();
 
 var express = require('express');
 var expressHandlebars = require('express-handlebars');
