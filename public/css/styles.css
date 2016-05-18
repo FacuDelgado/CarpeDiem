@@ -371,3 +371,9 @@ Waypoints
     color: #0E7F3E;
 } 
 }
+
+@media (max-width: 1000px){
+    .about-head h2:after, .about-head h2:before {
+        width: 100%;
+  }
+}
