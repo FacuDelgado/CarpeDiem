@@ -1180,7 +1180,7 @@ ul.kid-menu li.menu-kid-left{
 .price {
   	padding: 2em;
   	background-color: #F7F7F7;
-    margin: 5em 0;
+    margin: 2em 0;
 }
 .price-top h4,.price-top1 h4{
 	font-size: 1.2em;
@@ -1597,7 +1597,7 @@ option.rm{
 	padding: 2em;
 }
 .single{
-	padding: 5em 0 0;
+	padding: 0em 0 0;
 }
 .single-bottom h4{
 	font-size: 1.3em;
@@ -1676,32 +1676,26 @@ option.rm{
 }
 .middle-side p span.bath{
 	color:#000;
-	margin: 0 51% 0 0;
 	font-weight: bold;
 }
 .middle-side p span.bath1{
 	color:#000;
-	margin: 0 47% 0 0;
 	font-weight: bold;
 }
 .middle-side p span.bath2{
 	color:#000;
-	margin: 0 32% 0 0;
 	font-weight: bold;
 }
 .middle-side p span.bath3{
 	color:#000;
-	margin: 0 40% 0 0;
 	font-weight: bold;
 }
 .middle-side p span.bath4{
 	color:#000;
-	margin: 0 26% 0 0;
 	font-weight: bold;
 }
 .middle-side p span.bath5{
 	color:#000;
-	margin: 0 50% 0 0;
 	font-weight: bold;
 }
 .middle-side p span.two{
